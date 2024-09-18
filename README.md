@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostaspapd&show_icons=true&theme=dark&locale=en" alt="kostaspapd" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/KostasPapd)
