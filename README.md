@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/kostaspapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kostaspapd" height="30" width="40" /></a>
+<a href="https://medium.com/@kostispapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kostispapd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kostaspapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kostaspapd" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostaspapd&show_icons=true&theme=dark&locale=en&layout=compact" alt="kostaspapd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostaspapd&show_icons=true&theme=dark&locale=en" alt="kostaspapd" /></p>
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KostasPapd)
