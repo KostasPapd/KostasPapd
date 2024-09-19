@@ -14,6 +14,7 @@
 <a href="https://dev.to/kostaspapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kostaspapd" height="30" width="40" /></a>
 <a href="https://medium.com/@kostispapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kostispapd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kostaspapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kostaspapd" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27381367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27381367" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
