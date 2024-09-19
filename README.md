@@ -5,6 +5,8 @@
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 - 🌍 I'm from Greece 🇬🇷
+
+- 📖 I'm currently studying Computer Science, Maths and Statistics
   
 - 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)
 
