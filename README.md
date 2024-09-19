@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Papadopoulos</h1>
 <h3 align="center">A student that enjoys coding</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostaspapd" alt="kostaspapd" /></a> </p>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)
 
