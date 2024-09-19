@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Papadopoulos</h1>
-<h3 align="center">A student that enjoys coding</h3>
+<h3 align="center">Code enthusiast and student eager to expand my coding skills</h3>
 
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
