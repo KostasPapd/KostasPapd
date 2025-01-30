@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Papadopoulos</h1>
 <h3 align="center">Student and code enthusiast</h3>
 
-
-<p>
+<div>
+<picture>
 <img alt="github-snake" src="https://raw.githubusercontent.com/KostasPapd/KostasPapd/output/github-contribution-grid-snake.svg" />
-</p>
+</picture>
+</div>
 
 
 - 🌍 I'm from Greece 🇬🇷
