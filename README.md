@@ -2,7 +2,10 @@
 <h3 align="center">Student and code enthusiast</h3>
 
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+<p>
+<img alt="github-snake" src="https://raw.githubusercontent.com/KostasPapd/KostasPapd/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 - 🌍 I'm from Greece 🇬🇷
 
