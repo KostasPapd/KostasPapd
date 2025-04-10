@@ -14,7 +14,7 @@
 
 - 🎓 I want to study Computer Science at a higher level at University
   
-- 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)
+<!-- - 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)-->
 
 - 🌱 I’m currently learning **C++**
 
