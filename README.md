@@ -10,9 +10,8 @@
 
 - 🌍 I'm from Greece 🇬🇷
 
-- 📖 I'm currently studying Computer Science, Maths and Statistics
+- 📖 I'm currently studying Computer Science in University
 
-- 🎓 I want to study Computer Science at a higher level at University
   
 <!-- - 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)-->
 
