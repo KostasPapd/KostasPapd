@@ -15,7 +15,7 @@
   
 <!-- - 🔭 I’m currently working on [my A-Level project](https://github.com/KostasPapd/Computing_Project)-->
 
-- 🌱 I’m currently learning **C++**
+<!-- - - 🌱 I’m currently learning **C++** -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,9 +32,14 @@
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript" width="35" height="35"/></a>
 <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="supabase databases" width="35" height="40"/></a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="35" height="35"/ /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="35" height="35"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code" width="33" height="33"/></a>
+<a href="https://processing.org" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/960px-Processing_2021_logo.svg.png" alt="Processing" width="33" height="33"/></a>
 </p>
+
+
+
 <h3 align="left">My Leetcode Stats:</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KostasPapd)
