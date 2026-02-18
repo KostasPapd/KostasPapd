@@ -40,15 +40,4 @@
 
 
 
-<h3 align="left">My Leetcode Stats:</h3>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/KostasPapd)
-
-<h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostaspapd&show_icons=true&theme=dark&locale=en&layout=compact" alt="kostaspapd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostaspapd&show_icons=true&theme=dark&locale=en" alt="kostaspapd" /></p>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostaspapd&label=Profile%20views&color=0e75b6&style=plastic" alt="kostaspapd" /> </p>
