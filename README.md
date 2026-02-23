@@ -38,6 +38,10 @@
 <a href="https://processing.org" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/960px-Processing_2021_logo.svg.png" alt="Processing" width="33" height="33"/></a>
 </p>
 
+<h3 align="left">My GitHub Stats:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=KostasPapd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KostasPapd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasPapd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostaspapd&label=Profile%20views&color=0e75b6&style=plastic" alt="kostaspapd" /> </p>
