@@ -32,17 +32,17 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript" width="35" height="35"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" alt="JavaScript" width="35" height="35"/></a>
 <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="supabase databases" width="35" height="40"/></a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://intellij-support.jetbrains.com/hc/user_images/Sg7SwOJLuCr9zQ6A333tpg.png" alt="pycharm" width="35" height="35"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="35" height="35"/></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code" width="33" height="33"/></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Visual studio code" width="33" height="33"/></a>
 <a href="https://processing.org" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/960px-Processing_2021_logo.svg.png" alt="Processing" width="33" height="33"/></a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
+<!-- <h3 align="left">My GitHub Stats:</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KostasPapd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasPapd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasPapd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostaspapd&label=Profile%20views&color=0e75b6&style=plastic" alt="kostaspapd" /> </p>
