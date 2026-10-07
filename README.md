@@ -7,7 +7,7 @@
 </picture>
 </div>
 
-- 💼 Website Maintenance Developer at <a href="https://github.com/Braelum">Braelum</a>
+- 💼 Website Maintenance Developer at <a href="https://github.com/Braelum">Braelum Ltd.</a>
 
 - 🌍 I'm from Greece 🇬🇷
 
